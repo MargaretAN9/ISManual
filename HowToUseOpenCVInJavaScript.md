@@ -1,7 +1,7 @@
 **Image Sequencer** 
 User Manual Version 0.3 
 July 14, 2019
-======================
+=========================
 
 
 1. [Introduction](https://github.com/MargaretAN9/GSOC-2019/blob/master/ImageSequencerUserManual.md#introduction)  
